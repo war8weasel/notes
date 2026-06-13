@@ -17,3 +17,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-06-13
 - Investigated performance bottleneck, noted findings
 - Reorganised test fixtures
+
+## 2026-06-13
+- Added CONTRIBUTING.md stub
+- Verified compatibility with latest runtime version
