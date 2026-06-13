@@ -21,3 +21,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-06-13
 - Added CONTRIBUTING.md stub
 - Verified compatibility with latest runtime version
+
+## 2026-06-13
+- Cross-checked behaviour against spec
