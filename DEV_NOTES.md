@@ -13,3 +13,7 @@ Personal development log — notes, findings, and ongoing work.
 - Added inline documentation for core functions
 - Investigated performance bottleneck, noted findings
 - Ran linter, applied auto-fixes
+
+## 2026-06-13
+- Investigated performance bottleneck, noted findings
+- Reorganised test fixtures
